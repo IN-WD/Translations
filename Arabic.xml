@@ -13,7 +13,7 @@
     <string name="interval_pref">الفاصل الزمني لكل فحص</string>
     <string name="notification_sound">صوت الإشعارات</string>
     <string name="interval_pref_description_new">سيتم البحث عن إشعارات جديدة كل % ثانية.</string>
-    <string name="notification_sound_msg">صوت الرسالة</string>
+    <string name="notification_sound_msg">نغمة التنبيهات</string>
     <string name="vibrate">الإهتزاز</string>
     <string name="vibrate_double">الإهتزاز المزدوج</string>
     <string name="led_light">ضوء الإشعارات</string>
@@ -47,8 +47,8 @@
     <string name="hide_birthdays_summary">إخفاء تواريخ الميلاد من الصفحة الرئيسية، الأحداث والإشعارات.</string>
     <string name="hide_menu_bar_title">إخفاء القائمة</string>
     <string name="hide_menu_bar_summary">عند التفعيل ، سيتم إخفاء شريط القوائم.</string>
-    <string name="hide_recently_commented">Hide recently commented</string>
-    <string name="hide_recently_commented_summary">X people recently commented on this.</string>
+    <string name="hide_recently_commented">إخفاء آخر التعليقات</string>
+    <string name="hide_recently_commented_summary">X أشخاض علقوا على .</string>
     <string name="start_url">Start URL</string>
     <string-array name="Start">
         <item>MostRecent</item>
@@ -150,7 +150,7 @@
     <string name="loading">جار التحميل</string>
     <string name="permission_denied">تم رفض إعطاء الصلاحيات المطلوبة، للأسف لا يمكن إتمام طلبك</string>
     <string name="downloaded">تم التحميل</string>
-	<string name="bookmarks">Bookmarks</string>
-    <string name="new_bookmark">Added:</string>
-    <string name="remove_bookmark">Removed:</string>
+	<string name="bookmarks">المحفوضات</string>
+    <string name="new_bookmark">أضف:</string>
+    <string name="remove_bookmark">حذف:</string>
 </resources>
